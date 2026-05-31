@@ -141,10 +141,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanvanth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Dhanvanth](https://www.linkedin.com/in/dhanvanth-u-616a37380)
-[![GitHub](https://img.shields.io/badge/GitHub-Dhanvanth-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhanvanthulags-ai)
-[![Email](https://img.shields.io/badge/Phone-%2B91%209345325837-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:)
-[![Email](https://img.shields.io/badge/EMAIL-dhanvanthulags@gmail.com-181717?style=flat-square&logo=gmail&logoColor=white)](dhanvanthulags@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanvanth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanvanth-u-616a37380)
+
 </div>
 
 ---

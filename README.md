@@ -23,7 +23,7 @@
 - 🤝 Soft skills: **Leadership · Team Collaboration · Problem Solving · Time Management**
 - ⚡ Fun fact: Built an AI document organizer in **18 hours** at a hackathon 🚀
 - 💬 Motto: *"Build. Learn. Repeat."*
-- 📞 **+91 9345325837** &nbsp;|&nbsp; 🔗 [linkedin.com/in/Dhanvanth](https://linkedin.com/in/Dhanvanth)
+- 📞 **+91 9345325837** &nbsp;|&nbsp; 🔗 [linkedin.com/in/DHANVANTH U](https://linkedin.com/in/DHANVANTHU)
 
 <br clear="right"/>
 

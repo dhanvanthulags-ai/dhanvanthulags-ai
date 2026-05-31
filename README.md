@@ -12,42 +12,18 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Dhanvanth:
-    def __init__(self):
-        self.name           = "Dhanvanth U"
-        self.location       = "Pollachi, Coimbatore, India"
-        self.degree         = "B.E. CSE (AI & ML) — MCET, 2nd Year"
-        self.contact        = "+91 9345325837"
-        self.linkedin       = "linkedin.com/in/Dhanvanth"
+👋 Hi, I'm **Dhanvanth U** — an AI & ML Engineering student from Pollachi, Coimbatore, India.
 
-        self.stack = [
-            "Python", "C", "HTML", "CSS",
-            "Flask", "NLP"
-        ]
-
-        self.currently_learning = [
-            "Machine Learning fundamentals",
-            "Deep Learning & Neural Networks",
-            "Data Structures & Algorithms",
-            "Generative AI & LLMs"
-        ]
-
-        self.soft_skills = [
-            "Leadership", "Team Collaboration",
-            "Problem Solving", "Time Management"
-        ]
-
-        self.fun_fact = "Built an AI document organizer in 18 hours at a hackathon 🚀"
-
-    def motto(self):
-        return "Build. Learn. Repeat."
-
-me = Dhanvanth()
-print(me.motto())
-```
+- 🎓 Pursuing **B.E. CSE (AI & ML)** at MCET — 2nd Year
+- 📍 Based in **Pollachi, Coimbatore, India**
+- 🛠️ Working with **Python · C · HTML · CSS · Flask · NLP**
+- 🌱 Currently learning **Machine Learning, Deep Learning, Generative AI & DSA**
+- 🤝 Soft skills: **Leadership · Team Collaboration · Problem Solving · Time Management**
+- ⚡ Fun fact: Built an AI document organizer in **18 hours** at a hackathon 🚀
+- 💬 Motto: *"Build. Learn. Repeat."*
+- 📞 **+91 9345325837** &nbsp;|&nbsp; 🔗 [linkedin.com/in/Dhanvanth](https://linkedin.com/in/Dhanvanth)
 
 <br clear="right"/>
 

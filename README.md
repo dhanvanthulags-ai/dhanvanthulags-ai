@@ -21,9 +21,9 @@
 - 🛠️ Working with **Python · C · HTML · CSS · Flask · NLP**
 - 🌱 Currently learning **Machine Learning, Deep Learning, Generative AI & DSA**
 - 🤝 Soft skills: **Leadership · Team Collaboration · Problem Solving · Time Management**
-- ⚡ Fun fact: Built an AI document organizer in **18 hours** at a hackathon 🚀
+
 - 💬 Motto: *"Build. Learn. Repeat."*
-- 📞 **+91 9345325837** &nbsp;|&nbsp; 🔗 [linkedin.com/in/DHANVANTH U](https://linkedin.com/in/DHANVANTHU)
+- 📞 **+91 9345325837** &nbsp;|&nbsp; 🔗 [linkedin.com/in/DHANVANTH U]([https://linkedin.com/in/DHANVANTHU](https://www.linkedin.com/in/dhanvanth-u-616a37380))
 
 <br clear="right"/>
 
@@ -51,34 +51,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Dhanvanth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanvanth&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Dhanvanth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanvanth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
 
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanvanth&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanvanth&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
 
 ## 🏆 Trophy Wall
 
@@ -91,12 +65,12 @@
 ## 💼 Experience & Events
 
 <details>
-<summary><b>🏅 GenAI Hackathon — KPR Institute of Engineering and Technology | 18 Hours | 2024</b></summary>
+<summary><b>🏅 GenAI Hackathon — KPR Institute of Engineering and Technology | 18 Hours | 2026</b></summary>
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-70A5FD?style=flat-square&logo=spacy&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- 🚀 Built a fully functional **AI-powered Smart Document Organizer** from scratch in just **18 hours**.
+- 🚀 Built a fully functional **BIOTECH AI ASSISTANT ** from scratch in just **18 hours**.
 - 🧠 Integrated **NLP techniques** for intelligent text analysis and automatic document classification.
 - 🤝 Collaborated in a team under extreme time pressure, demonstrating leadership and rapid decision-making.
 - 🏆 Successfully delivered a working product within hackathon deadline at KPR Institute of Engineering and Technology.
@@ -124,7 +98,7 @@
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [🗂️ Smart Document Organizer (SDO)](https://github.com/Dhanvanth) | `Python` `Flask` `HTML` `CSS` `NLP` | AI-powered auto-classification & retrieval system · Built in 18hrs at GenAI Hackathon · Intelligent NLP-based categorization · Responsive UI with search & filter functionality |
+| [🗂️ Smart Document Organizer (SDO)](https://github.com/Dhanvanth) | `Python` `Flask` `HTML` `CSS` `NLP` | AI-powered auto-classification & retrieval system  · Intelligent NLP-based categorization · Responsive UI with search & filter functionality |
 
 </div>
 
@@ -136,7 +110,7 @@
 
 | 🏆 | Achievement | Details |
 |:--:|:-----------:|:-------:|
-| 🤖 | **GenAI Hackathon Participant** | Built AI Smart Document Organizer in **18 hours** — KPR Institute of Engineering and Technology |
+| 🤖 | **GenAI Hackathon Participant** | Built BIOTECH AI ASSISTANT in **18 hours** — KPRIET |
 | 💡 | **TCE Ideathon Contributor** | Idea validation, feasibility analysis & technical solution modeling — Thiagarajar College of Engineering |
 | 🎓 | **Generative AI Mastermind** | Certified by **OUTSKILLS** |
 | 🐍 | **Python Essentials I** | Certified by **CISCO** |
@@ -146,19 +120,7 @@
 
 </div>
 
----
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree / Level | Institution | Period | Score |
-|:--------------:|:-----------:|:------:|:-----:|
-| 🎓 B.E. CSE (AI & ML) | Dr. Mahalingam College of Engineering and Technology, Pollachi | Aug 2025 – Aug 2029 | 2nd Year |
-| 📚 Grade 11 – 12 (CBSE) | Sacred Heart Central School, Villupuram | June 2023 – May 2025 | CBSE |
-| 📖 Grade 6 – 10 (CBSE) | Velammal Bodhi Campus, Theni | June 2019 – Apr 2023 | CBSE |
-
-</div>
 
 ---
 
@@ -179,10 +141,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanvanth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhanvanth)
-[![GitHub](https://img.shields.io/badge/GitHub-Dhanvanth-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanvanth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanvanth-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Dhanvanth](https://www.linkedin.com/in/dhanvanth-u-616a37380)
+[![GitHub](https://img.shields.io/badge/GitHub-Dhanvanth-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dhanvanthulags-ai)
 [![Email](https://img.shields.io/badge/Phone-%2B91%209345325837-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:)
-
+[![Email](https://img.shields.io/badge/EMAIL-dhanvanthulags@gmail.com-181717?style=flat-square&logo=gmail&logoColor=white)](dhanvanthulags@gmail.com)
 </div>
 
 ---
